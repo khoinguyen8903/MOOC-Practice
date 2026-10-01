@@ -12,6 +12,8 @@
         <module name="Part01_10.Story" />
         <module name="Part01_23.SimpleCalculator" />
         <module name="Part01_09.Conversation" />
+        <module name="Part04_01.YourFirstAccount" />
+        <module name="Part04_15.Statistics" />
         <module name="Part01_12.IntegerInput" />
         <module name="Part01_13.DoubleInput" />
         <module name="Part01_33.Password" />
@@ -21,9 +23,12 @@
         <module name="Part01_18.SumOfThreeNumbers" />
         <module name="Part01_37.GiftTax" />
         <module name="Part01_02.AdaLovelace" />
+        <module name="Part04_20.Books" />
         <module name="Part01_11.VariousVariables" />
         <module name="Part01_07.MessageThreeTimes" />
         <module name="Part01_34.Same" />
+        <module name="Part04_16.PaymentCard" />
+        <module name="Part04_29.RecordsFromAFile" />
         <module name="Part01_36.LeapYear" />
         <module name="Part01_26.Orwell" />
         <module name="Part01_14.BooleanInput" />
@@ -39,6 +44,7 @@
         <module name="Part01_28.Positivity" />
         <module name="Part01_20.MultiplicationFormula" />
         <module name="Part01_06.HiAdaLovelace" />
+        <module name="Part04_31.SportStatistics" />
         <module name="Part01_32.OddOrEven" />
         <module name="Part01_24.SpeedingTicket" />
         <module name="Part01_30.LargerThanOrEqualTo" />
